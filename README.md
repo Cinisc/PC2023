@@ -1,1 +1,37 @@
-# PC2023
+DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> justinbieber.com</title>
+    <link rel="justin.css" href="reset.css">
+    <link rel="stylesheet" href="justin.css">
+</head>
+<body>
+    <header>
+        <nav>
+          <a href="index.html"> home </a>
+          <a href="Justin.html"> produtos </a>
+          <a href="https://youtu.be/kffacxfA7G4?si=0IeXJLoVKcDsSKQA> música do Justin </a>
+        </nav>
+  </header>
+<li>
+    <h1>Ingressos para a Pista</h1>
+    <img class="pista" src= "https://images.app.goo.gl/XeTzkpKJWN3iypKR6">
+    <p>Na pista de dança</p>
+    <p>Meia R$ 310,00 / Inteira R$ 620,00</p>
+    <h1> Ingressos para as cadeiras nível 1</h1>
+    <img class="cadeira 1" src= "https://images.app.goo.gl/HzjXMG2kwYxKkbGe8" >
+    <p>Cadeiras nível 1</p>
+    <p>Meia R$ 270,00 / Inteira 540,00</p>
+    <h1>Ingressos para as cadeiras nível 3</h1>
+    <img src="https://images.app.goo.gl/pRbKM1FqWgn7U4Ji8">
+    <p>Cadeiras nível 3</p>
+    <p>Meia R$ 170,00 / Inteira R$ 340,00</p>
+    <h1> Ingressos para o Camarote</h1>
+    <p> No Camarote</p>
+    <p> Meia R$ 320,00 / Inteira R$ 640,00</p>
+    </li>
+</body>
+</html> # PC2023
