@@ -1,0 +1,51 @@
+h1 {
+    text-align:center;
+    background-color: rgb(127, 235, 184);
+}
+h2{
+    text-align: center;
+}
+h3{
+    font-style: oblique;
+    background-color: rgb(39, 198, 226);
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+strong {
+    font-size: larger;
+}
+
+body {
+    background-color: blueviolet;
+}
+.imagem1 {
+    width: 200px;
+}
+.imagemcentralizada {
+ text-align: center;
+}
+
+.Justin{
+    background-color:rgb(206, 204, 94)
+
+}
+. Bieber{
+   color: rgb(182, 133, 0);
+    font-style: italic
+}
+.musica {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+    }
+
+nav a{
+    text-transform: uppercase;
+    color: blanchedalmond;
+    font-weight: 300;
+    font-size: 100%;
+}
